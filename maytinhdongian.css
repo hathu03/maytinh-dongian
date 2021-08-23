@@ -1,0 +1,22 @@
+table{
+    width: 170px;
+    background-color: cornsilk;
+
+}
+
+button{
+    width: 100%;
+    height: 20px;
+}
+#xanh{
+    background-color: blue;
+    color: white;
+}
+.result{
+    color: blue;
+    font-family: VnBook-Antiqua;
+}
+#clear{
+    color: white;
+    background-color: red;
+}
